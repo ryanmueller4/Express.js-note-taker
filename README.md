@@ -26,3 +26,4 @@ N/A
 
 ## Screenshot
 
+![image](https://github.com/ryanmueller4/Express.js-note-taker/assets/98727619/33c16a13-1784-4a41-849c-b2a7cec96c31)
